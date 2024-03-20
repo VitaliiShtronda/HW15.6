@@ -1,12 +1,10 @@
 import org.example.database.DatabaseQueryService;
-import org.example.database.LongestProject;
 import org.example.database.MaxProjectCountClient;
 import org.example.database.MaxSalaryWorker;
 import org.example.database.ProjectPrice;
 import org.example.database.YoungestEldestWorker;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
